@@ -1,4 +1,6 @@
 ﻿var charData = {
+    "Cooper (Blazing Tennis Battle)": "kubo_2",
+    "Z46 (Girls' Relay)": "z46_3",
     "Grozny (Bad Bunny Behind Bars)": "weiyan_2",
     "Aurora (Heritage of Yu City)": "ouruola_4",
     "Taihou (Phoenix's Spring Song)": "dafeng_4",
