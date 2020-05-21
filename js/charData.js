@@ -1,4 +1,8 @@
 ﻿var charData = {
+    "Jean Bart": "rangbaer_3",
+    "Richelieu": "lisailiu_2",
+    "Le Malin": "edu_3",
+    "Émile Bertin": "aimierbeierding_3",
     "Cooper (Blazing Tennis Battle)": "kubo_2",
     "Z46 (Girls' Relay)": "z46_3",
     "Grozny (Bad Bunny Behind Bars)": "weiyan_2",
