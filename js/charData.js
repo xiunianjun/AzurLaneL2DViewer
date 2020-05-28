@@ -1,4 +1,6 @@
 ﻿var charData = {
+    "Ping Hai (Delicious Crimson)": "pinghai_6",
+    "St. Louis (Luxurious Wheels)": "shengluyisi_4",
     "Jean Bart": "rangbaer_3",
     "Richelieu": "lisailiu_2",
     "Le Malin": "edu_3",

@@ -2,7 +2,7 @@
   "Version": 3,
   "Meta": {
     "PhysicsSettingCount": 13,
-    "TotalInputCount": 14,
+    "TotalInputCount": 23,
     "TotalOutputCount": 58,
     "VertexCount": 105,
     "EffectiveForces": {
@@ -78,6 +78,15 @@
           "Source": {
             "Target": "Parameter",
             "Id": "wuli"
+          },
+          "Weight": 50,
+          "Type": "X",
+          "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
           },
           "Weight": 50,
           "Type": "X",
@@ -223,6 +232,15 @@
           "Source": {
             "Target": "Parameter",
             "Id": "wuli"
+          },
+          "Weight": 50,
+          "Type": "X",
+          "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
           },
           "Weight": 50,
           "Type": "X",
@@ -410,6 +428,15 @@
           "Source": {
             "Target": "Parameter",
             "Id": "wuli"
+          },
+          "Weight": 50,
+          "Type": "X",
+          "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
           },
           "Weight": 50,
           "Type": "X",
@@ -1052,6 +1079,15 @@
           "Weight": 50,
           "Type": "X",
           "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
+          },
+          "Weight": 50,
+          "Type": "X",
+          "Reflect": false
         }
       ],
       "Output": [
@@ -1206,6 +1242,15 @@
           "Weight": 50,
           "Type": "X",
           "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
+          },
+          "Weight": 50,
+          "Type": "X",
+          "Reflect": false
         }
       ],
       "Output": [
@@ -1345,6 +1390,15 @@
           "Source": {
             "Target": "Parameter",
             "Id": "wuli"
+          },
+          "Weight": 50,
+          "Type": "X",
+          "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
           },
           "Weight": 50,
           "Type": "X",
@@ -1599,6 +1653,15 @@
           "Weight": 50,
           "Type": "X",
           "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
+          },
+          "Weight": 50,
+          "Type": "X",
+          "Reflect": false
         }
       ],
       "Output": [
@@ -1738,6 +1801,15 @@
           "Source": {
             "Target": "Parameter",
             "Id": "liuhaiwuli"
+          },
+          "Weight": 50,
+          "Type": "X",
+          "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
           },
           "Weight": 50,
           "Type": "X",
@@ -2033,6 +2105,15 @@
           "Source": {
             "Target": "Parameter",
             "Id": "cefawuli"
+          },
+          "Weight": 50,
+          "Type": "X",
+          "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
           },
           "Weight": 50,
           "Type": "X",

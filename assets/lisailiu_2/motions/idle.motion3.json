@@ -6,8 +6,8 @@
     "Loop": true,
     "AreBeziersRestricted": true,
     "CurveCount": 260,
-    "TotalSegmentCount": 903,
-    "TotalPointCount": 1079,
+    "TotalSegmentCount": 899,
+    "TotalPointCount": 1075,
     "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
@@ -389,11 +389,8 @@
       "Segments": [
         0,
         0,
+        0,
         2,
-        0.167,
-        0,
-        0,
-        1.333,
         1,
         0,
         4,
@@ -406,11 +403,8 @@
       "Segments": [
         0,
         0,
+        0,
         2,
-        0.167,
-        0,
-        0,
-        1.333,
         1,
         0,
         4,
@@ -423,11 +417,8 @@
       "Segments": [
         0,
         0,
+        0,
         2,
-        0.167,
-        0,
-        0,
-        1.333,
         1,
         0,
         4,
@@ -440,11 +431,8 @@
       "Segments": [
         0,
         0,
+        0,
         2,
-        0.167,
-        0,
-        0,
-        1.333,
         1,
         2,
         4,
@@ -3846,10 +3834,10 @@
       "Id": "kouqiehuan",
       "Segments": [
         0,
-        1,
+        0,
         0,
         4,
-        1
+        0
       ]
     },
     {
