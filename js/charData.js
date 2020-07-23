@@ -1,4 +1,5 @@
 ﻿var charData = {
+    "Hermione (Pure white angel)": "hemin_3",
     "Ping Hai (Delicious Crimson)": "pinghai_6",
     "St. Louis (Luxurious Wheels)": "shengluyisi_4",
     "Jean Bart": "rangbaer_3",

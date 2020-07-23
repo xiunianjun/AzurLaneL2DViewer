@@ -4,9 +4,10 @@
     "Duration": 9.2,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
     "CurveCount": 205,
-    "TotalSegmentCount": 1011,
-    "TotalPointCount": 1287,
+    "TotalSegmentCount": 1015,
+    "TotalPointCount": 1291,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -1150,6 +1151,29 @@
         -0.8,
         0,
         6.7,
+        0,
+        2,
+        9.2,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "muyudaxiao",
+      "Segments": [
+        0,
+        0,
+        2,
+        1.167,
+        0,
+        0,
+        1.567,
+        -0.6,
+        0,
+        3,
+        0,
+        2,
+        4.8,
         0,
         2,
         9.2,
@@ -4301,17 +4325,6 @@
     {
       "Target": "Parameter",
       "Id": "tongkongbianxing",
-      "Segments": [
-        0,
-        0,
-        0,
-        9.2,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "muyudaxiao",
       "Segments": [
         0,
         0,
