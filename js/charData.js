@@ -1,4 +1,7 @@
 ﻿var charData = {
+    "Surcouf (Loisirs Balnéaires)": "xukufu_3",
+    "Kashino (Hot Springs Relaxation)": "jianye_2",
+    "Hermione (Pure White Holiday)": "hemin_2",
     "Hermione (Pure white angel)": "hemin_3",
     "Ping Hai (Delicious Crimson)": "pinghai_6",
     "St. Louis (Luxurious Wheels)": "shengluyisi_4",
