@@ -1,4 +1,8 @@
 ﻿var charData = {
+    "Essex (Craft Fairytail)": "aisaikesi_4",
+    "Baltimore (Evening Breeze Minuet)": "baerdimo_5",
+    "Ayanami (Nightfall Raiment)": "lingbo_10",
+    "Saint Louis (Holy Knight's Resplendence)": "luyijiushi_2",
     "Surcouf (Loisirs Balnéaires)": "xukufu_3",
     "Kashino (Hot Springs Relaxation)": "jianye_2",
     "Hermione (Pure White Holiday)": "hemin_2",
