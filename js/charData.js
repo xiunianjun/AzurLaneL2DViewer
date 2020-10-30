@@ -1,4 +1,6 @@
 ﻿var charData = {
+    "Unicorn (Angelic Night)": "dujiaoshou_6",
+    "Z46 (Star-Lit Chocolate)": "z46_4",
     "Essex (Craft Fairytail)": "aisaikesi_4",
     "Baltimore (Evening Breeze Minuet)": "baerdimo_5",
     "Ayanami (Nightfall Raiment)": "lingbo_10",

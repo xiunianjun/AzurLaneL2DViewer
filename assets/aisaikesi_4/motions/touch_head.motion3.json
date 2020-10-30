@@ -5,9 +5,9 @@
     "Fps": 60.0,
     "Loop": true,
     "AreBeziersRestricted": true,
-    "CurveCount": 199,
-    "TotalSegmentCount": 787,
-    "TotalPointCount": 903,
+    "CurveCount": 205,
+    "TotalSegmentCount": 793,
+    "TotalPointCount": 909,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -3977,6 +3977,72 @@
     {
       "Target": "Parameter",
       "Id": "LetterAllShow",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.2,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "LetterF",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.2,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "LetterLine1",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.2,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "LetterLine2",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.2,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "LetterLine3",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.2,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "LetterLine4",
+      "Segments": [
+        0,
+        0,
+        0,
+        3.2,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "LetterLine5",
       "Segments": [
         0,
         0,
