@@ -1,12 +1,12 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "Tiger.moc3",
+		"Moc": "tiger.moc3",
 		"Textures": [
-			"Tiger.1024/texture_00.png"
+			"textures/texture_00.png"
 		],
-		"Physics": "Tiger.physics3.json",
-		"DisplayInfo": "Tiger.cdi3.json"
+		"Physics": "tiger.physics3.json",
+		"DisplayInfo": "tiger.cdi3.json"
 	},
 	"Groups": [
 		{
