@@ -1,65 +1,51 @@
 {
-  "Version": 3,
-  "FileReferences": {
-    "Moc": "aidang_2.moc3",
-    "Textures": [
-      "textures/texture_00.png"
-    ],
-    "Physics": "aidang_2.physics3.json",
-    "Motions": {
-      "": [
-        {
-          "File": "motions/complete.motion3.json"
-        },
-        {
-          "File": "motions/home.motion3.json"
-        },
-        {
-          "File": "motions/idle.motion3.json"
-        },
-        {
-          "File": "motions/login.motion3.json"
-        },
-        {
-          "File": "motions/mail.motion3.json"
-        },
-        {
-          "File": "motions/main_1.motion3.json"
-        },
-        {
-          "File": "motions/main_2.motion3.json"
-        },
-        {
-          "File": "motions/main_3.motion3.json"
-        },
-        {
-          "File": "motions/mission_complete.motion3.json"
-        },
-        {
-          "File": "motions/mission.motion3.json"
-        },
-        {
-          "File": "motions/touch_body.motion3.json"
-        },
-        {
-          "File": "motions/touch_head.motion3.json"
-        },
-        {
-          "File": "motions/touch_special.motion3.json"
-        },
-        {
-          "File": "motions/wedding.motion3.json"
-        }
-      ]
-    }
-  },
-  "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": [
-        "ParamMouthOpenY"
-      ]
-    }
-  ]
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "tiger.moc3",
+		"Textures": [
+			"textures/texture_00.png"
+		],
+		"Physics": "tiger.physics3.json",
+		"DisplayInfo": "tiger.cdi3.json",
+		"Motions": {
+		  "": [
+			{
+			  "File": "motions/cheek_red.motion3.json"
+			},
+			{
+			  "File": "motions/curious.motion3.json"
+			},
+			{
+			  "File": "motions/head_down.motion3.json"
+			},
+			{
+			  "File": "motions/idle.motion3.json"
+			},
+			{
+			  "File": "motions/random1.motion3.json"
+			},
+			{
+			  "File": "motions/random2.motion3.json"
+			},
+			{
+			  "File": "motions/star_eyes.motion3.json"
+			}
+			]	
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen",
+				"ParamEyeLOpen"
+			]
+		}
+	]
 }
