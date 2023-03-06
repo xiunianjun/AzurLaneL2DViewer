@@ -66,4 +66,5 @@
     "Ibuki (Wish of a Snow Goddess)": "yichui_2",
     "Z23": "z23",
     "Z46 (First Summer)": "z46_2",
+	"tiger": "tiger",
 };
