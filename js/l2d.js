@@ -94,6 +94,7 @@ class L2D {
                     });
 
                     let model = null;
+					console.log("moc == null:"+(moc == null));
                     let coreModel = Live2DCubismCore.Model.fromMoc(moc);
                     if (coreModel == null) {
                         return;
