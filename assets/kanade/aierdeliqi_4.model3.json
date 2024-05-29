@@ -1,6 +1,6 @@
 {
   "FileReferences": {
-    "Moc": "17kanade_wedding.moc3",
+    "Moc": "aierdeliqi_4.moc3",
     "Motions": {
       "w-normal-relief01": [
         {
@@ -2264,9 +2264,9 @@
         }
       ]
     },
-    "Physics": "17kanade_wedding.physics3.json",
+    "Physics": "aierdeliqi_4.physics3.json",
     "Textures": [
-      "17kanade_wedding.2048/texture_00.png"
+      "textures/texture_00.png"
     ]
   },
   "Groups": [
