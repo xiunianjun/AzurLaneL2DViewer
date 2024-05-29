@@ -1,0 +1,68 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "grace_10thkac_0101.moc3",
+		"Textures": [
+			"grace_10thkac_0101.4096/texture_00.png"
+		],
+		"Physics": "grace_10thkac_0101.physics3.json",
+		"Motions": {
+			"In": [
+				{
+					"File": "grace_10thkac_0101_m01a_in.motion3.json"
+				}
+			],
+			"Idle": [
+				{
+					"File": "grace_10thkac_0101_m02a_loop1.motion3.json"
+				}
+			],
+			"Gun1": [
+				{
+					"File": "grace_10thkac_0101_m03a_gun1.motion3.json"
+				}
+			],
+			"Idle2": [
+				{
+					"File": "grace_10thkac_0101_m04a_loop2.motion3.json"
+				}
+			],
+			"Fly": [
+				{
+					"File": "grace_10thkac_0101_m05a_fly.motion3.json"
+				}
+			],
+			"Idle3": [
+				{
+					"File": "grace_10thkac_0101_m06a_loop3.motion3.json"
+				}
+			],
+			"Gun2": [
+				{
+					"File": "grace_10thkac_0101_m07a_gun2.motion3.json"
+				}
+			],
+			"Final": [
+				{
+					"File": "grace_10thkac_0101_m08a_final.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

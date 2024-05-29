@@ -67,4 +67,6 @@
     "Z23": "z23",
     "Z46 (First Summer)": "z46_2",
 	"tiger": "tiger",
+    "kanade": "kanade",
+    "17kanade_wedding": "17kanade_wedding",
 };
